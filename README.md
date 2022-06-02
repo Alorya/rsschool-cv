@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Alorya.github.io/rsschool-cv/cv
