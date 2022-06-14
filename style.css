@@ -14,7 +14,7 @@ body {
     left: 0;
     right: 0;
     z-index: 1000;
-    background-color: black;
+    background-color:none;
 
 }
 .low_head{
@@ -62,20 +62,18 @@ body {
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;
-}
-.container{
-    width: 100%;
     height: 40vh;
     background-color: none;
     background-size: cover;
     display: flex;
     justify-content: space-around;
     background-color: none;
+
 }
 .img1{
     width: 280px;
     height: 280px;
-    margin-top: 0px;
+    margin-top: 0p
 }
 .cont_name{
     width: 100%;
@@ -106,9 +104,9 @@ body {
 }
 .aboutme{
     color:white;
-    background-color: grey;
+    background-color:none;
     width: 50%;
-    height: 24vh;
+    height: 25vh;
     margin-left: 200px;
 }
 .aboutme1{
@@ -130,9 +128,9 @@ body {
 }
 .contacts{
     color:white;
-    background-color: blue;
+    background-color: none;
     width: 50%;
-    height: 18vh;
+    height: 22vh;
     margin-left: 200px;
 }
 .style1{
@@ -154,15 +152,31 @@ body {
 }
 .soft{
     color:white;
-    background-color: blue;
+    background-color:none;
     width: 50%;
-    height: 28vh;
+    height: 32vh;
     margin-left: 200px;
+}
+.cod{
+    color:white;
+    background-color: none;
+    width: 50%;
+    height: 6vh;
+    margin-left: 200px;
+
 }
 .codeex{
     color:white;
-    background-color: blue;
+    background-color:none;
     width: 50%;
-    height: 28vh;
+    height: 24vh;
     margin-left: 200px;
+
 }
+.lang{
+    color:white;
+    background-color:   none;
+    width: 50%;
+    height: 15vh;
+    margin-left: 200px;
+} 
