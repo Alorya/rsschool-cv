@@ -1,1 +1,1 @@
-https://dainty-piroshki-c0dc41.netlify.app/
+https://Alorya.github.io/rsschool-cv/cv https://Alorya.github.io/rsschool-cv/
