@@ -180,3 +180,31 @@ body {
     height: 15vh;
     margin-left: 200px;
 } 
+.footer{
+}
+.low_foot{
+    color: white;
+    background-color: none;
+    width: 80%;
+    margin-left: 200px;
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-around;
+    background-color: none;
+}
+.foto1{
+    width: 100px;
+    height: 50px;
+}
+.git{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 0px;
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s linear;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    line-height: 1.4;
+
+}
